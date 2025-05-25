@@ -1,0 +1,46 @@
+{
+    "id": "mcFleet",
+    "name": "mcFleet",
+    "description": "Step in. Gear up. Dominate",
+    "addresses": [
+        "mcFleet.net"
+    ],
+    "primaryAddress": "mcFleet.net",
+    "primaryColor": "#B762F6",
+    "secondaryColor": "#FF66CC",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Bedwars",
+        "Arcade"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mcFleet",
+        "youtube": "https://www.youtube.com/@McFleetDotNet"
+    }
+}
