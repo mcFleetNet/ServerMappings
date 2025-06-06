@@ -37,7 +37,8 @@
     "gameTypes": [
         "Survival",
         "Bedwars",
-        "Arcade"
+        "Arcade",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/mcFleet",
